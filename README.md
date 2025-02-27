@@ -2,7 +2,7 @@
 
 ## 📌 Making the World Safer
 
-![Vi-Lense Logo]("Screenshot Vi-Lense.png")
+![Vi-Lense Logo](https://github.com/shifrawexler/Vi-Lense-Hackathon2024/blob/main/Screenshot%20Vi-Lense.png)
 
 **Vi-Lense** is a real-time violence detection system that integrates with existing surveillance to enhance urban security and support emergency responders. 
 
